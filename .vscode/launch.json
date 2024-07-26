@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CircleArea",
+            "request": "launch",
+            "mainClass": "CircleArea",
+            "projectName": "codeJavaTutorial_e1da8b91"
+        },
+        {
+            "type": "java",
+            "name": "Age",
+            "request": "launch",
+            "mainClass": "Age",
+            "projectName": "codeJavaTutorial_e1da8b91"
+        },
+        {
+            "type": "java",
             "name": "TestLogic",
             "request": "launch",
             "mainClass": "TestLogic",
