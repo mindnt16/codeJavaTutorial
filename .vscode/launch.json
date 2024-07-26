@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ifAct",
+            "request": "launch",
+            "mainClass": "ifAct",
+            "projectName": "codeJavaTutorial_e1da8b91"
+        },
+        {
+            "type": "java",
             "name": "CircleArea",
             "request": "launch",
             "mainClass": "CircleArea",
