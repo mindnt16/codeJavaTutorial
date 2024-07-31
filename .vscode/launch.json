@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "TestFor",
+            "request": "launch",
+            "mainClass": "TestFor",
+            "projectName": "codeJavaTutorial_e1da8b91"
+        },
+        {
+            "type": "java",
+            "name": "Squares",
+            "request": "launch",
+            "mainClass": "Squares",
+            "projectName": "codeJavaTutorial_e1da8b91"
+        },
+        {
+            "type": "java",
             "name": "CalToNum",
             "request": "launch",
             "mainClass": "CalToNum",
