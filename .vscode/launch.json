@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CalToNum",
+            "request": "launch",
+            "mainClass": "CalToNum",
+            "projectName": "codeJavaTutorial_e1da8b91"
+        },
+        {
+            "type": "java",
+            "name": "MinOfThree",
+            "request": "launch",
+            "mainClass": "MinOfThree",
+            "projectName": "codeJavaTutorial_e1da8b91"
+        },
+        {
+            "type": "java",
+            "name": "TestGrade",
+            "request": "launch",
+            "mainClass": "TestGrade",
+            "projectName": "codeJavaTutorial_e1da8b91"
+        },
+        {
+            "type": "java",
             "name": "ifAct",
             "request": "launch",
             "mainClass": "ifAct",
