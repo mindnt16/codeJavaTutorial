@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Result1To000",
+            "request": "launch",
+            "mainClass": "Result1To000",
+            "projectName": "codeJavaTutorial_e1da8b91"
+        },
+        {
+            "type": "java",
+            "name": "TestSum2",
+            "request": "launch",
+            "mainClass": "TestSum2",
+            "projectName": "codeJavaTutorial_e1da8b91"
+        },
+        {
+            "type": "java",
             "name": "TestFor",
             "request": "launch",
             "mainClass": "TestFor",
