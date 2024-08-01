@@ -1,15 +1,13 @@
 public class Result1To000 {
     public static void main(String[] args) {
-        int sum = 0;  
-        int i = 1;    
-
+        int  i = 1, sum = 0;  
         while (i <= 100) {
+            System.out.println(" i: " + i + ", sum : " + sum);
             sum += i;  
-        System.out.println(" i: " + i + ", Result in whileLoop : " + sum);
             i++;       
         }
 
-        System.out.println("Result in whileLoop 1 - 100 is : " + sum);
+        System.out.println("Result 1 To 100 Is : " + sum);
     }
     }
 
