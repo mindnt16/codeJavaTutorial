@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ExNo3",
+            "request": "launch",
+            "mainClass": "ExNo3",
+            "projectName": "codeJavaTutorial_e1da8b91"
+        },
+        {
+            "type": "java",
+            "name": "ExNo2",
+            "request": "launch",
+            "mainClass": "ExNo2",
+            "projectName": "codeJavaTutorial_e1da8b91"
+        },
+        {
+            "type": "java",
+            "name": "ExNo1",
+            "request": "launch",
+            "mainClass": "ExNo1",
+            "projectName": "codeJavaTutorial_e1da8b91"
+        },
+        {
+            "type": "java",
+            "name": "Nestedloop1",
+            "request": "launch",
+            "mainClass": "Nestedloop1",
+            "projectName": "codeJavaTutorial_e1da8b91"
+        },
+        {
+            "type": "java",
+            "name": "TestAverage",
+            "request": "launch",
+            "mainClass": "TestAverage",
+            "projectName": "codeJavaTutorial_e1da8b91"
+        },
+        {
+            "type": "java",
             "name": "testdowhile",
             "request": "launch",
             "mainClass": "testdowhile",
