@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "testdowhile",
+            "request": "launch",
+            "mainClass": "testdowhile",
+            "projectName": "codeJavaTutorial_e1da8b91"
+        },
+        {
+            "type": "java",
             "name": "Result1To000",
             "request": "launch",
             "mainClass": "Result1To000",
