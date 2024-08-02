@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Ex5_4",
+            "request": "launch",
+            "mainClass": "Ex5_4",
+            "projectName": "codeJavaTutorial_e1da8b91"
+        },
+        {
+            "type": "java",
+            "name": "Ex5_3",
+            "request": "launch",
+            "mainClass": "Ex5_3",
+            "projectName": "codeJavaTutorial_e1da8b91"
+        },
+        {
+            "type": "java",
+            "name": "Ex5_2",
+            "request": "launch",
+            "mainClass": "Ex5_2",
+            "projectName": "codeJavaTutorial_e1da8b91"
+        },
+        {
+            "type": "java",
+            "name": "Ex5",
+            "request": "launch",
+            "mainClass": "Ex5",
+            "projectName": "codeJavaTutorial_e1da8b91"
+        },
+        {
+            "type": "java",
             "name": "Barchart",
             "request": "launch",
             "mainClass": "Barchart",
