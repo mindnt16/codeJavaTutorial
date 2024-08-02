@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "calFx",
+            "request": "launch",
+            "mainClass": "calFx",
+            "projectName": "codeJavaTutorial_e1da8b91"
+        },
+        {
+            "type": "java",
+            "name": "mathdemo",
+            "request": "launch",
+            "mainClass": "mathdemo",
+            "projectName": "codeJavaTutorial_e1da8b91"
+        },
+        {
+            "type": "java",
+            "name": "callname",
+            "request": "launch",
+            "mainClass": "callname",
+            "projectName": "codeJavaTutorial_e1da8b91"
+        },
+        {
+            "type": "java",
             "name": "ExNo3",
             "request": "launch",
             "mainClass": "ExNo3",
