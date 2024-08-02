@@ -6,6 +6,48 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Barchart",
+            "request": "launch",
+            "mainClass": "Barchart",
+            "projectName": "codeJavaTutorial_e1da8b91"
+        },
+        {
+            "type": "java",
+            "name": "CalGrade",
+            "request": "launch",
+            "mainClass": "CalGrade",
+            "projectName": "codeJavaTutorial_e1da8b91"
+        },
+        {
+            "type": "java",
+            "name": "TestOver1",
+            "request": "launch",
+            "mainClass": "TestOver1",
+            "projectName": "codeJavaTutorial_e1da8b91"
+        },
+        {
+            "type": "java",
+            "name": "PrimeChecker",
+            "request": "launch",
+            "mainClass": "PrimeChecker",
+            "projectName": "codeJavaTutorial_e1da8b91"
+        },
+        {
+            "type": "java",
+            "name": "Local2",
+            "request": "launch",
+            "mainClass": "Local2",
+            "projectName": "codeJavaTutorial_e1da8b91"
+        },
+        {
+            "type": "java",
+            "name": "LocalVars",
+            "request": "launch",
+            "mainClass": "LocalVars",
+            "projectName": "codeJavaTutorial_e1da8b91"
+        },
+        {
+            "type": "java",
             "name": "calFx",
             "request": "launch",
             "mainClass": "calFx",
