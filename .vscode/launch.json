@@ -6,6 +6,55 @@
     "configurations": [
         {
             "type": "java",
+            "name": "BasicArray",
+            "request": "launch",
+            "mainClass": "BasicArray",
+            "projectName": "codeJavaTutorial_e1da8b91"
+        },
+        {
+            "type": "java",
+            "name": "Payarray",
+            "request": "launch",
+            "mainClass": "Payarray",
+            "projectName": "codeJavaTutorial_e1da8b91"
+        },
+        {
+            "type": "java",
+            "name": "SameArray2",
+            "request": "launch",
+            "mainClass": "SameArray2",
+            "projectName": "codeJavaTutorial_e1da8b91"
+        },
+        {
+            "type": "java",
+            "name": "SameArray",
+            "request": "launch",
+            "mainClass": "SameArray",
+            "projectName": "codeJavaTutorial_e1da8b91"
+        },
+        {
+            "type": "java",
+            "name": "Arraylnitia",
+            "request": "launch",
+            "mainClass": "Arraylnitia",
+            "projectName": "codeJavaTutorial_e1da8b91"
+        },
+        {
+            "type": "java",
+            "name": "ArrayDemo1",
+            "request": "launch",
+            "mainClass": "ArrayDemo1",
+            "projectName": "codeJavaTutorial_e1da8b91"
+        },
+        {
+            "type": "java",
+            "name": "Testarray",
+            "request": "launch",
+            "mainClass": "Testarray",
+            "projectName": "codeJavaTutorial_e1da8b91"
+        },
+        {
+            "type": "java",
             "name": "Ex5_4",
             "request": "launch",
             "mainClass": "Ex5_4",
