@@ -6,6 +6,55 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ArrayLiseDemo1",
+            "request": "launch",
+            "mainClass": "ArrayLiseDemo1",
+            "projectName": "codeJavaTutorial_e1da8b91"
+        },
+        {
+            "type": "java",
+            "name": "Lengths",
+            "request": "launch",
+            "mainClass": "Lengths",
+            "projectName": "codeJavaTutorial_e1da8b91"
+        },
+        {
+            "type": "java",
+            "name": "TwoDArray",
+            "request": "launch",
+            "mainClass": "TwoDArray",
+            "projectName": "codeJavaTutorial_e1da8b91"
+        },
+        {
+            "type": "java",
+            "name": "Monthday",
+            "request": "launch",
+            "mainClass": "Monthday",
+            "projectName": "codeJavaTutorial_e1da8b91"
+        },
+        {
+            "type": "java",
+            "name": "ReturnArray",
+            "request": "launch",
+            "mainClass": "ReturnArray",
+            "projectName": "codeJavaTutorial_e1da8b91"
+        },
+        {
+            "type": "java",
+            "name": "PassArray",
+            "request": "launch",
+            "mainClass": "PassArray",
+            "projectName": "codeJavaTutorial_e1da8b91"
+        },
+        {
+            "type": "java",
+            "name": "PassElements",
+            "request": "launch",
+            "mainClass": "PassElements",
+            "projectName": "codeJavaTutorial_e1da8b91"
+        },
+        {
+            "type": "java",
             "name": "BasicArray",
             "request": "launch",
             "mainClass": "BasicArray",
