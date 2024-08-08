@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "LoginScreen",
+            "request": "launch",
+            "mainClass": "LoginScreen",
+            "projectName": "codeJavaTutorial_e1da8b91"
+        },
+        {
+            "type": "java",
+            "name": "PerfectSong",
+            "request": "launch",
+            "mainClass": "PerfectSong",
+            "projectName": "codeJavaTutorial_e1da8b91"
+        },
+        {
+            "type": "java",
+            "name": "LengthDemo",
+            "request": "launch",
+            "mainClass": "LengthDemo",
+            "projectName": "codeJavaTutorial_e1da8b91"
+        },
+        {
+            "type": "java",
             "name": "ArrayLiseDemo1",
             "request": "launch",
             "mainClass": "ArrayLiseDemo1",
